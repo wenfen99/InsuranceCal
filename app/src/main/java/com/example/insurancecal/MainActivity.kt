@@ -28,8 +28,8 @@ class MainActivity : AppCompatActivity() {
             spinner.setSelection(0)
             grpGender.clearCheck()
             txtTotal.setText("")
-            checkSmoke.setChecked(false)
             myData.totalPremium = 0
+            checkSmoke.setChecked(false)
         }
     }
 
